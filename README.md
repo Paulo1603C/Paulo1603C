@@ -20,9 +20,7 @@
 
 - 📫 How to reach me **pauloalexis24@gmail.com**
 
-- 🌱 I’m currently learning **flutter.js**
-
-- 🌐 Website [youdevs.com](youdevs.com)
+- 🌱 I’m currently learning **flutter** and **Vue.js**
 
 
 <div align="left">
