@@ -1,9 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Paulo</h1>
     <h3 align="center">
-    A passionate student from the middle of the world, Ecuador. 
-    I really like frontend development and design patterns, along with non-relational databases. 
-    I am currently in my last year of my degree, software engineering.
+    Passionate developer looking for creative solutions to technological challenges. Lover of clean code, innovative technologies and high-performance software development. Committed to continuous improvement and constant learning in the world of programming
     </h3>
 </div>
 
